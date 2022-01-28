@@ -112,6 +112,6 @@ int main(int argc, char *argv[])
 	
 	judge_empty(&L);
 	
-	
+
 	return 0;
 }
